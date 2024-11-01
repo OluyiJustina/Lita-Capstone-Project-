@@ -4,12 +4,16 @@
 ### Project title: Retail Stores Sales Analysis 
 
 #### Project Objectives 
-This project aims to generate insights into the sales performance of a retail store for 2023 to Q3 of 2024. By conducting a comprehensive analysis of sales data recieved - to identify monthly sales trends, regional performance,top selling products as well as  challenges the store might be facing. Also to help make  inform data-driven decisions that could help optimize sales performance, improve customer experience, and increase revenue.
+This project aims to generate insights into the sales performance of a retail store for 2023 to Q3 of 2024. 
+This is achievable through a comprehensive analysis of sales data recieved - to identify 
+1. monthly sales trends,
+2. regional performance,
+3. top selling products
+4. identify areas of improvement in sales processes and customer experience.
 
 ### Scope:
-
-#### Analyze sales data from:
-Q1 2023 - Q3 2024
+This project will focus on Analysing sales data from
+Q1 2023  to Q3 2024. Covering: 
 #### Focus on store locations:
 - Nouth, 
 - East, 
