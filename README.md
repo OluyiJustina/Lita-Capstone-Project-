@@ -39,7 +39,7 @@ This project will focus on Analysing sales data from
 
 ### Deliverables:
 #### Data Analysis
-**Some Basic lines of Code - excel functions, SQL quesries and Some DAX expression used during analysis**
+**Some Basic lines of Code - excel functions, SQL queries and Some DAX expression used during analysis**
 **Excel functions**
 ~~~
 =SUMIFS($H$2:$H$50001,$D$2:$D$50001,$D$2,$C$2:$C$50001,$C2)
