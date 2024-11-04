@@ -30,7 +30,7 @@ This project will focus on Analysing sales data from
    - Data Cleaning and formatting 
 4. **Data Ananlysis**: Apply data vitualisation techniques using analysis tools (Excel and Power BI)
 5. **Data Querying**: querying data to extract key insights using SQL (Structutred Query Language) with the aid of of SQL Server.
-6. **Findings and Recommendation**: a pdf file containing recommendations documentation   
+ 
 
 
 ### Expected Outcomes:
@@ -170,7 +170,7 @@ p.Product
 
 
 #### Key Findings:
-**Data Visualisations**
+- **Data Visualisations**
 1. Excel
 - Calaculated Tables
 
@@ -183,7 +183,7 @@ p.Product
 
 
 
-- Pivot Tables
+- **Pivot Tables**
 
   
 ![pivot 1](https://github.com/user-attachments/assets/7c531a5c-eda0-49c6-91c2-6dcb99e2d9c0)
@@ -196,12 +196,20 @@ p.Product
 
 ![pivot 5](https://github.com/user-attachments/assets/878f69e5-94c5-480e-a02b-cc3bc59e728b)
 
+
+- **Power BI Visualizations** 
+
+ <img width="653" alt="powerBi Vitual 2" src="https://github.com/user-attachments/assets/f9ee44aa-cbe9-4543-a1fe-497e00c626e1">
+
+
+
+- **Recommendations**
+
+After a thorough data analysis of sales data, here are some recommendations:
+1. Focus on the region (south) generationg 44.16% of the total revenue.
+2. Likewise, the company could increase its market strategies for products - shoes and shirt, since it contributed larger percent of the overall revenue 29.16% and 23.14% respectively.
+3. The company could also identify gaps in product offering, since there are some regions where some of the products are not sold, especially those with higher sales margin.
  
-
-
-
-
-  
 ### Timeline:
 
 - Data analysis: 
